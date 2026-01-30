@@ -1,5 +1,5 @@
 #Library Management System (CLI)
-This is a **Java-based Command Line Interface (CLI) project developed as part of the **Syntecxhub Virtual Internship Program**.  
+This is a Java-based Command Line Interface (CLI) project developed as part of the Syntecxhub Virtual Internship Program.  
 The project helps manage library books using basic Java concepts.
 ---
 ## Features
